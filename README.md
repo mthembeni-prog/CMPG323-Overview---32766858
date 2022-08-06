@@ -9,3 +9,7 @@ This text diagram represents the 5 projects that have been branched from the mai
 
 this is the method used as a branching strategy for the projects:
 One repository has multiple branches and projects can be individually edited. 
+
+Gitignore is used to to tell git to ignore items that we do not want to publish into our repository, this can be created in the form of a template, this is used with each of our projects. These can be credential files for the databases that are not meant to be seen by the public in the repository because it is not secure. 
+
+When is comes to the storage of credentials and sensitive information, gitignore plays a massive role in blocking certain items that we do not what to store in the repository you can use git-credential-store to store your passwords unencrypted on the disk, protected only by the permissions of the file system. You can check the credentials stored in the file ~/. git-credentials
