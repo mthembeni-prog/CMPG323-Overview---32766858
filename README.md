@@ -12,4 +12,8 @@ One repository has multiple branches and projects can be individually edited.
 
 Gitignore is used to to tell git to ignore items that we do not want to publish into our repository, this can be created in the form of a template, this is used with each of our projects. These can be credential files for the databases that are not meant to be seen by the public in the repository because it is not secure. 
 
+For the moment only one repository will be used to to display the submisiion of projects but it will be necessary to use two Git tools that can manage multiple repositories within one project. The two tools are HelixTeamHub and Helix4Git Do. Here, HelixTeamHub lets me work with multiple repositories, where i can use Helix4Git to contribute to the sub-projects or repositories per submission of each project
+
+
 When is comes to the storage of credentials and sensitive information, gitignore plays a massive role in blocking certain items that we do not what to store in the repository you can use git-credential-store to store your passwords unencrypted on the disk, protected only by the permissions of the file system. You can check the credentials stored in the file ~/. git-credentials
+
