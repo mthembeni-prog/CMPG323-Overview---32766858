@@ -4,9 +4,30 @@
 For this project a single repository has been made and divided into 5 different branches for a specific project such as Project 5 will have all files for that specific project the main branch will be used to store all branches in which the projects will be found. If needed more repositories will be made for each poject because they have different objectives milestines as well as goals.
 
 CMPG323-Overview Repo --->Main Branch--->Project 1---Project 2--->Project 3--->Project 4--->Project 5
-This text diagram represents the 5 projects that have been branched from the main branch in the repository. These branches are set and placed in such a way that the projects don't influence each other such as when details Project 3 have been set they will not be able to influence Project 4. The branches can only be affected when they are pushed pr pulled.
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/110576122/185356163-4d2d64f3-9832-4cf5-89c4-27be3d0fdffb.png)
+
+
 
 *Project Structure*
+
+This diagram represents the 5 projects that have been branched from the main branch in the repository. These branches are set and placed in such a way that the projects don't influence each other such as when details Project 3 have been set they will not be able to influence Project 4. The branches can only be affected when they are pushed or pulled. 
+
+Project 1
+The project is structured in a way that project 1 lays the foundation of each other project beacuse of all the milestones and dates as well as tasks set to be completed in the duration of each project. 
+
+Project 2
+
+I plan to start creating the CRUD RESTful API that will connect to a database storing IoT device data. The API should contain at least one get, post, patch and delete method per
+resource – aligning to the project's requirements. The RESTful API architecture has several
+endpoints called over HTTP, invoking application code to update a database, this will be the main concern during Project 2 and everything will be recorded and updated using git hub
+
+
+
+
+
+
+
+
 
 
 
