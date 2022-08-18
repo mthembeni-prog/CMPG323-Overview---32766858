@@ -6,6 +6,11 @@ For this project a single repository has been made and divided into 5 different 
 CMPG323-Overview Repo --->Main Branch--->Project 1---Project 2--->Project 3--->Project 4--->Project 5
 This text diagram represents the 5 projects that have been branched from the main branch in the repository. These branches are set and placed in such a way that the projects don't influence each other such as when details Project 3 have been set they will not be able to influence Project 4. The branches can only be affected when they are pushed pr pulled.
 
+*Project Structure*
+
+
+
+
 *Branching Strategy*
 
 At the end of every sprint and milestone as i get to the release from the main branch, a release branch strategy will be applies which will fix bugs from the release branch and merge them back into the release branch in a pull request, this strategy will be sed throughtout the whole duration of the project.
