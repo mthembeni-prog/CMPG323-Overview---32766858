@@ -21,10 +21,25 @@ I plan to start creating the CRUD RESTful API that will connect to a database st
 resource – aligning to the project's requirements. The RESTful API architecture has several
 endpoints called over HTTP, invoking application code to update a database, this will be the main concern during Project 2 and everything will be recorded and updated using git hub
 
+Project 3
+
+During this project i will aquire access the NWU Azure tenant 
+ensire that i create a resource group to logically group my  work. Using the
+appropriate naming convention
+Make sure that Visual Studios 2022 Community edition and .NET Core 3.1 are installed
+Make sure that the database required in P2 has been created and is accessible in Azure
+
+Project 4
 
 
+Make sure a UiPath Automation Cloud account is created
+Make sure that i download UiPath Studio Community Edition to your computer
+Ensure that i am  able to access the web application that you will be performing UI
+automation on
 
+Project 5
 
+Create report in Power BI in the creation of the final POE
 
 
 
